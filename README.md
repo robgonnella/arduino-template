@@ -1,4 +1,28 @@
-# Arduino Hacking
+
+# Deprecated
+
+Use https://github.com/robgonnella/ardie instead
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+### Old docs
+### Arduino Hacking
 
 The following set of instructions deals with compiling and uploading programs
 to your usb conencted arduino board without needing to use their web or
